@@ -2,7 +2,7 @@
 :star: Welcome to my GitHub page :star:
 My name is Alexander Cunningham-Rojas. I am a student currently living in Brighton.
 ## About Me
-I am a undergraduate student who is deepy interested in creating and applying AI models :zap:. Specifically, I enjoy working with evolutionary learning and neural networks. Many of my projects here were created to help me develop my skills. 
+I am a undergraduate student who is deepy interested in creating and applying AI models:zap:. Specifically, I enjoy working with evolutionary learning and neural networks. Many of my projects here were created to help me develop my skills. 
 
 - Currently aiming to build an immersive PDF reader :page_with_curl:
 - Taking courses about Project Management :wrench:
