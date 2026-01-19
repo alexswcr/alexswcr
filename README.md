@@ -7,7 +7,7 @@ I am a undergraduate student who is deepy interested in creating and applying AI
 
 - Currently aiming to build an immersive PDF reader :page_with_curl:
 - Taking courses about Project Management :wrench:
-- Looking for a Summer Internship :bar_chart:
+- Looking for a graduate position :bar_chart:
 
 <!--
 **alexswcr/alexswcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
